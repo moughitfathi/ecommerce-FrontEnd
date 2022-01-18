@@ -1,4 +1,7 @@
 # clothes.vue
+front-end  for an ecommerce website
+
+visit link: https://naughty-mestorf-934db8.netlify.app
 
 ## Project setup
 ```
